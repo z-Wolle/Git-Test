@@ -1,2 +1,5 @@
 # exmaple Dateien sollen nicht auf git hochgeladen werden 
-*exe
+*.exe
+
+# erstellte pdf´s werden sollen ignoriert werden 
+*.pdf 
