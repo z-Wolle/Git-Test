@@ -3,3 +3,6 @@
 
 # erstellte pdf´s werden sollen ignoriert werden 
 *.pdf 
+
+# Makefile soll ignoriert werden
+Makefile
